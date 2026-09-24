@@ -1,5 +1,3 @@
-<div align="center">
-
 # RTAL-EAI-010 Polyphonic Vocoder
 
 ### ESP32-S3 real-time polyphonic vocoder with 20-band analysis, MIDI carrier engine and deep stereo ensemble
