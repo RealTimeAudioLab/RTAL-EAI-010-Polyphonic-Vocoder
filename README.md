@@ -550,7 +550,6 @@ RTAL-EAI-010 extends that approach into speech synthesis and spectral processing
 
 ---
 
-<div align="center">
 
 ## RTAL-EAI-010 Polyphonic Vocoder
 
