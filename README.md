@@ -19,7 +19,6 @@
 
 ---
 
-<p align="center">
   <img src="images/rtal_eai_010_hero_concept.png" width="920" alt="RTAL-EAI-010 Polyphonic Vocoder concept visualization">
 </p>
 
